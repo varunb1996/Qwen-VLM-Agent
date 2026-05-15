@@ -60,7 +60,7 @@ Responsible for:
 ## Vision Language Model (VLM)
 
 Model Used:
-- Qwen2-VL-7B-Instruct
+- Qwen2.5-VL-72B-Instruct
 
 Responsibilities:
 - Image understanding
