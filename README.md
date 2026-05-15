@@ -35,7 +35,7 @@ The project follows a modular AI engineering architecture suitable for scalable 
 
 ## AI/ML
 - Hugging Face Inference API
-- Qwen2-VL-7B-Instruct
+- Qwen2.5-VL-72B-Instruct
 - MLflow
 
 ## Utilities
